@@ -83,6 +83,6 @@ Mention any other resources or individuals you would like to acknowledge.
 Contact
 If you have any questions or issues, feel free to contact the project maintainer:
 
-Name: Your Name
-Email: your.email@example.com
+Name: Abdul Wahab
+Email: abdulwahabawan82@gmail.com
 Enjoy working with your ESP32 and ZMPT101B sensor, and have fun building your projects!
